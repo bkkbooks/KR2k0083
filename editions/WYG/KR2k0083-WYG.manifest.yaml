@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR2k0083/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2k0083/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南嶽小錄
+  date: '2015-08-24 22:44:44.464657'
+  source:
+    repository: kanripo
+    path: KR2k0083
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0083_000-WYG.yaml, hash: 'sha256:bfea2a48728c4daa21ce7759b3f66149ed71b2c917f2978ba7ac56783133a2c9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0083_000-WYG.markers.yaml, hash: 'sha256:f91e6859c7e2f013328785d748a44982277f2ce22f41644aa94d95430d4a6cfc'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0083_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 339
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2k0083_WYG_000-3a
+    span:
+    - body
+    - 339
+    - 687
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2k0083_WYG_000-5a
+    span:
+    - body
+    - 687
+    - 4506
+  label: 南嶽小録
+  type: section
+  level: 1
+hash: sha256:3c52909f28f1830cec2de7de19a78c7a62ca4d7aea021b7f7ba25e330f9d075d

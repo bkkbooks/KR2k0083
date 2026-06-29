@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR2k0083/v1
+canonical_location: https://kanripo.org/bkk/KR2k0083/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 南嶽小錄
+  date: '2015-08-24 22:44:44.464657'
+  source:
+    repository: kanripo
+    path: KR2k0083
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0083_000.yaml, hash: 'sha256:23dab1c8d0f576b2e5346c7eafcd4d8b757f0cf461728126484c1a6fd5c202df'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0083_000.markers.yaml, hash: 'sha256:50b1549aa83f987573dc1ca4f5896ae61f4f79e88ecccbe78734d6ed46f1dba1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0083_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 339
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2k0083_WYG_000-3a
+    span:
+    - body
+    - 339
+    - 687
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2k0083_WYG_000-5a
+    span:
+    - body
+    - 687
+    - 4506
+  label: 南嶽小録
+  type: section
+  level: 1
+hash: sha256:5e1ff1367b82b87fecb3baf2e280b12c8db5126f55301485b280485454a954e0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
