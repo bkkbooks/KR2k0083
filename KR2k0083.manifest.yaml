@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0083/v1
 canonical_location: https://kanripo.org/bkk/KR2k0083/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 南嶽小錄
   date: '2015-08-24 22:44:44.464657'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2k0083_000.yaml, hash: 'sha256:f71043c252945cb8dc7f0d73b992115f912bb61129f428412809bb0c41ff7e93'}
+  - {seq: 0, filename: KR2k0083_000.yaml, hash: 'sha256:81e13c224d34edd52b8371b699681bd5b4a25254528c5c7e741df1404db60ff4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0083_000.markers.yaml, hash: 'sha256:609bbefb38c786bf3e5b8bc8fa8a76a520f963bdb3a08c54ed52c81166804612'}
+  - {seq: 0, role: markers, filename: assets/KR2k0083_000.markers.yaml, hash: 'sha256:57f9563c6f6c74a989cba0c9ca42bb26a6d7eab4a8252a4fb9fcdc78dbbcb37b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -54,4 +54,7 @@ table_of_contents:
   label: 南嶽小録
   type: section
   level: 1
-hash: sha256:3d49b22a5d6a1709aa0fbecf899994ee0cf7969c9275354aa0cf77d9b5f19108
+hash: sha256:52fec56ac7498ffd006e051d840df9f4c39ece1f5c26779fe550680dd4ad4538
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
