@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR2k0083_000-WYG.yaml, hash: 'sha256:bfea2a48728c4daa21ce7759b3f66149ed71b2c917f2978ba7ac56783133a2c9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0083_000-WYG.markers.yaml, hash: 'sha256:f91e6859c7e2f013328785d748a44982277f2ce22f41644aa94d95430d4a6cfc'}
+  - {seq: 0, role: markers, filename: assets/KR2k0083_000-WYG.markers.yaml, hash: 'sha256:37ab045a72bb944f5b5f36151f0fa51f8522be0d0e5777ec0f4bcd72fdbbf76b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -51,4 +51,4 @@ table_of_contents:
   label: 南嶽小録
   type: section
   level: 1
-hash: sha256:3c52909f28f1830cec2de7de19a78c7a62ca4d7aea021b7f7ba25e330f9d075d
+hash: sha256:4a3b2aad06455ae7291439721c62f7c2f78a36df39d268916ca29917c7149dd0
